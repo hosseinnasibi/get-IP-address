@@ -1,0 +1,15 @@
+
+In this example we are gonna see how to get IP address of a System. The steps are as follows:
+
+1) Get the local host address by calling getLocalHost() method of InetAddress class.
+2) Get the IP address by calling getHostAddress() method.
+
+
+Output:
+
+My IP Address is:
+115.242.7.243
+
+
+Reference:
+https://docs.oracle.com/javase/7/docs/api/java/net/InetAddress.html
